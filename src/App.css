@@ -1,7 +1,9 @@
 
 .mainContainer {
-  min-width: 100%;
-  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
   box-sizing: border-box;
   font-family: 'Titillium Web', sans-serif;
   display: flex;

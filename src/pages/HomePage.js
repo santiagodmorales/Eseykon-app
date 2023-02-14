@@ -8,9 +8,10 @@ const HomePage = () => {
   return (
     <div className="homeContainer">
             <div className="homeContent">
-            <h1>Automatitación industrial</h1>
+            <h1>Automatización industrial</h1>
             </div>
             <HomeCarousel/>
+            
 
     </div>
   )
